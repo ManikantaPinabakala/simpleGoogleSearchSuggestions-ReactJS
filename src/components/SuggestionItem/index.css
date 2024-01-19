@@ -1,0 +1,17 @@
+.suggestion-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.suggestion {
+  color: #475569;
+  margin: 10px;
+}
+
+.arrow {
+  height: 20px;
+  width: 20px;
+  margin-right: 20px;
+}
